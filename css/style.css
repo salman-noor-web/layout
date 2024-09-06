@@ -1,0 +1,122 @@
+.header{
+	height: 200px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+
+
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: blue;
+}
+.contact{
+
+
+	float: left;
+	width: 30%;
+	height: 150px;
+	background-color: green;}
+
+.container2{overflow: hidden;}
+	.item3{
+
+
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: aqua;}
+
+	.item4{
+
+
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: purple;}
+
+	.item5{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: brown}
+
+	.container3{
+		overflow: hidden;
+	}
+
+		.item6{
+	float: left;
+	width:25%;
+	height: 150px;
+	background-color: maroon}
+
+			.item7{
+	float: left;
+	width:25%;
+	height: 150px;
+	background-color:yellow;}
+
+				.item8{
+	float: left;
+	width:25%;
+	height: 150px;
+	background-color:orange;}
+
+					.item9{
+	float: left;
+	width:25%;
+	height: 150px;
+	background-color:pink}
+
+.container4{overflow: hidden;}
+
+.item10{float:left;
+	width:20%;
+	height:100px;
+	background-color: brown;
+
+}
+.item11{
+	float:left;
+	width:20%;
+	height:100px;
+	background-color: purple;
+}
+
+.item12{
+	float: left;
+	width: 20%;
+	height: 20%;
+	height: 100px;
+	background-color: green;
+}
+
+.item13{
+	float:left;
+	width:20%;
+	height:100px;
+	background-color: darkred;
+}
+.item14{
+	float:left;
+	width:20%;
+	height:100px;
+	background-color:yellow;
+}
+
+
+
+
+
+
+
+
+
+.footer{
+	height: 200px;
+	background-color: black;
+}
